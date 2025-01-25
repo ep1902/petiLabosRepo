@@ -1,10 +1,10 @@
 import { defineConfig } from "vite";
 import vue from "@vitejs/plugin-vue";
 
-// https://vite.dev/config/
+const port = process.env.PORT || 3000;
 export default {
   plugins: [vue()],
   server: {
-    port: PORT, // Možeš promeniti port ako želiš
+    port: port,
   },
 };
