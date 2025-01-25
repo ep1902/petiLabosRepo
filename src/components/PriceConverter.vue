@@ -5,7 +5,7 @@
     <h3>Currency exchange rate: {{ tecaj }}</h3>
     <input
       type="text"
-      v-model="dollar"
+      v-model="dollars"
       placeholder="Enter price in $"
       @input="validateInput"
     />

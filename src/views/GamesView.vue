@@ -37,11 +37,9 @@ export default {
   },
   setup() {
     const cart = useGameStore();
-    console.log("Cart after addition:", cart.items);
+
     const handleAdd = (game) => {
-      console.log("tusam");
       cart.addToCart(game);
-      console.log("Cart after addition:", cart.items);
     };
 
     return {
