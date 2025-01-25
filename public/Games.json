@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "price": 59.99
+    },
+    {
+      "id": 2,
+      "name": "Elden Ring",
+      "price": 69.99
+    },
+    {
+      "id": 3,
+      "name": "Minecraft",
+      "price": 26.95
+    },
+    {
+      "id": 4,
+      "name": "Grand Theft Auto V",
+      "price": 29.99
+    },
+    {
+      "id": 5,
+      "name": "Red Dead Redemption 2",
+      "price": 59.99
+    },
+    {
+      "id": 6,
+      "name": "Call of Duty: Modern Warfare II",
+      "price": 69.99
+    },
+    {
+      "id": 7,
+      "name": "Animal Crossing: New Horizons",
+      "price": 59.99
+    },
+    {
+      "id": 8,
+      "name": "Super Mario Odyssey",
+      "price": 49.99
+    },
+    {
+      "id": 9,
+      "name": "Fortnite (Battle Pass)",
+      "price": 9.99
+    },
+    {
+      "id": 10,
+      "name": "Cyberpunk 2077",
+      "price": 59.99
+    }
+  ]
+  
