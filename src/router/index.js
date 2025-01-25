@@ -1,10 +1,9 @@
 import { createRouter, createWebHistory } from "vue-router";
 import HomePage from "../components/HomePage.vue";
+import GamesView from "../views/GamesView.vue";
+import CartView from "../views/CartView.vue";
+import ConvertPrice from "../components/PriceConverter.vue";
 import NotFound from "../components/NotFound.vue";
-import GamesView from "../views/GamesView";
-import CartView from "../views/CartView";
-import ConvertPrice from "../components/PriceConverter";
-
 const routes = [
   {
     path: "/",

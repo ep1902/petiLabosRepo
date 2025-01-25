@@ -15,8 +15,8 @@
 
 <script>
 import GamesCard from "../components/GamesCard.vue";
-import { useGameStore } from "../stores/gameStore";
-import AppHeader from "../components/AppHeader";
+import { useGameStore } from "../stores/gameStore.js";
+import AppHeader from "../components/AppHeader.vue";
 
 export default {
   components: {
